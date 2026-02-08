@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is hypertension?",
+    "expected": "Hypertension is a medical condition characterized by persistently elevated blood pressure."
+  },
+  {
+    "question": "How is hypertension diagnosed?",
+    "expected": "Hypertension is diagnosed through repeated blood pressure measurements over time."
+  },
+  {
+    "question": "What are common risks of hypertension?",
+    "expected": "Hypertension increases the risk of heart disease, stroke, and kidney failure."
+  }
+]
